@@ -1,7 +1,4 @@
-# AI代言人
+# Team 8
+## 主題:AI代言人
+### 成員:張皓博 白宇廷 吳孟翰 黃弘穎 李彥鋒
 
-
-|Markdown | Less | pretty|
-|:--- |:---| :---|
-|*Still*| `renders`| **nicely**|
-|1 | 2 | 3 |
