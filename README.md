@@ -75,4 +75,6 @@ gantt
 ![使用者案例說明圖](使用者案例說明圖.png)
 
 ## 使用Figma繪製動態模擬畫面
+![ex1](ex1.png)
+
 https://www.figma.com/community/file/1298621726970268359/kpi
