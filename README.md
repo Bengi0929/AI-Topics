@@ -78,3 +78,9 @@ gantt
 ![interface](interface.png)
 
 https://www.figma.com/community/file/1298621726970268359/kpi
+
+## 系統環境圖 (DFD)
+![DFD](DFD.png)
+
+## DFD 圖0
+![DFD0](DFD0.png)
