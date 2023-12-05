@@ -107,5 +107,12 @@ https://www.figma.com/community/file/1298621726970268359/kpi
 ## ERD
 ![ERD1](ERD1.png)
 
+## 分鏡板(storyboard)
+![storyboard1](storyboard1.png)
+![storyboard2](storyboard2.png)
+![storyboard3](storyboard3.png)
+![storyboard4](storyboard4.png)
+![storyboard5](storyboard5.png)
+
 ## 組合實體
 ![ERD2](ERD2.png)
