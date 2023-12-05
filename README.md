@@ -79,6 +79,12 @@ gantt
 
 https://www.figma.com/community/file/1298621726970268359/kpi
 
+## 系統環境圖 (DFD)
+![DFD](DFD.png)
+
+## DFD 圖0
+![DFD0](DFD0.png)
+
 ## UML類別圖
 ![UML類別圖](UML類別圖.png)
 
@@ -97,12 +103,6 @@ https://www.figma.com/community/file/1298621726970268359/kpi
 ![img](循環圖05.png)
 
 ![img](循環圖06.png)
-
-## 系統環境圖 (DFD)
-![DFD](DFD.png)
-
-## DFD 圖0
-![DFD0](DFD0.png)
 
 ## ERD
 ![ERD1](ERD1.png)
