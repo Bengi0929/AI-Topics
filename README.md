@@ -87,3 +87,6 @@ https://www.figma.com/community/file/1298621726970268359/kpi
 
 ## ERD
 ![ERD1](ERD1.png)
+
+## 組合實體
+![ERD2](ERD2.png)
