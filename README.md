@@ -82,6 +82,22 @@ https://www.figma.com/community/file/1298621726970268359/kpi
 ## UML類別圖
 ![UML類別圖](UML類別圖.png)
 
+## 主管查詢績效循序圖與活動圖
+![img](循環圖01.png)
+
+![img](循環圖02.png)
+
+## 員工上傳檔案循序圖與活動圖
+![img](循環圖03.png)
+
+![img](循環圖04.png)
+
+## 網頁維護循序圖與活動圖
+
+![img](循環圖05.png)
+
+![img](循環圖06.png)
+
 ## 系統環境圖 (DFD)
 ![DFD](DFD.png)
 
