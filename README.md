@@ -86,4 +86,4 @@ https://www.figma.com/community/file/1298621726970268359/kpi
 ![DFD0](DFD0.png)
 
 ## ERD
-![ERD1]ERD1.png)
+![ERD1](ERD1.png)
