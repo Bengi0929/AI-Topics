@@ -79,6 +79,9 @@ gantt
 
 https://www.figma.com/community/file/1298621726970268359/kpi
 
+## UML類別圖
+![UML類別圖](UML類別圖.png)
+
 ## 系統環境圖 (DFD)
 ![DFD](DFD.png)
 
